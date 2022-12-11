@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Faisalameen2
+- 👀 I’m interested in Data Science and XR Development
+- 🌱 I’m currently learning both Computer Vision and VR Development
+- 📫 reach me via LinkedIn: https://www.linkedin.com/in/faisal-almashharawi/ 
